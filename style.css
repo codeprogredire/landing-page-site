@@ -1,0 +1,22 @@
+body{
+    background-image: url('images/bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: 'Lobster', cursive;
+}
+
+h1{
+    color: red;
+}
+
+.rowHeight{
+    height: 300px;
+}
+
+.footer{
+    background-color: white;
+    bottom: 0;
+    position: fixed;
+}
